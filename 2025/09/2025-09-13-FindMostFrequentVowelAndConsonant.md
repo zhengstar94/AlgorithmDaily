@@ -47,7 +47,7 @@ The output is 3 + 0 = 3.
 ## Method 1
 
 ```tex
-【O(n) time | O(n) space】
+【O(n) time | O(1) space】
 ```
 
 ```java
